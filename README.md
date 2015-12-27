@@ -20,7 +20,7 @@ Pull requests happily accepted.
 
 * [Ruby](http://ruby-lang.org) - Ruby is a soft, happy language to start with.
 * [Javascript](https://www.javascript.com/) - Javascript is everywhere, which is why it might make sense to learn and then jump into the browser for interactions.
-* [Python (Turtle)] - Turtle for Python. Thanks @rantav
+* [Python (Turtle)](https://docs.python.org/2/library/turtle.html) - Turtle for Python. Thanks @rantav
 
 
 ### Environments
