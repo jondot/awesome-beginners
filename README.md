@@ -33,6 +33,8 @@ Pull requests happily accepted.
 * [Robots](https://github.com/npryce/robots) - A simple game to teach the basics of programming
 * [Code Combat](http://codecombat.com/) - An almost real quest (game) driven by the player learning to code
 * [Scratch](https://scratch.mit.edu/) - A visual programming environment for kids by MIT
+* [Hopscotch](http://www.gethopscotch.com/) - Another visual programming environment with an app and more
+
 
 
 
