@@ -8,7 +8,7 @@ to program, a few unexpected questions come up:
 
 * Where do you start as a mentor?
 * What's the first programming language they should learn that would not scare them off?
-* How should they interface with the language? an editor? IDE?
+* How should they interface with the language? a visual editor? IDE?
 * Should they even start with a programming language?
 * How to keep everything fun?
 
