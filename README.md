@@ -31,6 +31,8 @@ Pull requests happily accepted.
 * [Bocko](https://github.com/mfikes/bocko) - Simple Clojure imperative graphics
 * [Robots](https://github.com/npryce/robots) - A simple game to teach the basics of programming
 * [Code Combat](http://codecombat.com/) - An almost real quest (game) driven by the player learning to code
+* [Scratch](https://scratch.mit.edu/) - A visual programming environment for kids by MIT
+
 
 
 ### Training
