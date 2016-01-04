@@ -35,6 +35,7 @@ Pull requests happily accepted.
 * [Scratch](https://scratch.mit.edu/) - A visual programming environment for kids by MIT
 * [Hopscotch](http://www.gethopscotch.com/) - Another visual programming environment with an app and more
 * [Phaser](http://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering
+* [CodeMonkey] (https://www.playcodemonkey.com/) - Learning CoffeeScript for kids through a nice interactive game
 
 
 
