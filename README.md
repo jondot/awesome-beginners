@@ -34,6 +34,7 @@ Pull requests happily accepted.
 * [Code Combat](http://codecombat.com/) - An almost real quest (game) driven by the player learning to code
 * [Scratch](https://scratch.mit.edu/) - A visual programming environment for kids by MIT
 * [Hopscotch](http://www.gethopscotch.com/) - Another visual programming environment with an app and more
+* [Phaser](http://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering
 
 
 
