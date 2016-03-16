@@ -33,6 +33,7 @@ Pull requests happily accepted.
 * [Robots](https://github.com/npryce/robots) - A simple game to teach the basics of programming
 * [Code Combat](http://codecombat.com/) - An almost real quest (game) driven by the player learning to code
 * [Scratch](https://scratch.mit.edu/) - A visual programming environment for kids by MIT
+* [ScratchJR](http://www.scratchjr.org/) - Tablet application version of Scratch for little children (ages 5-7). No reading or writing skills are required.
 * [Hopscotch](http://www.gethopscotch.com/) - Another visual programming environment with an app and more
 * [Phaser](http://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering
 * [CodeMonkey] (https://www.playcodemonkey.com/) - Learning CoffeeScript for kids through a nice interactive game
