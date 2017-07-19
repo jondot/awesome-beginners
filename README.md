@@ -36,8 +36,8 @@ Pull requests happily accepted.
 * [ScratchJR](http://www.scratchjr.org/) - Tablet application version of Scratch for little children (ages 5-7). No reading or writing skills are required.
 * [Hopscotch](http://www.gethopscotch.com/) - Another visual programming environment with an app and more
 * [Phaser](http://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering
-* [CodeMonkey] (https://www.playcodemonkey.com/) - Learning CoffeeScript for kids through a nice interactive game
-* [Turtle Academy] (https://www.turtleacademy.com/) - Learn Programming using the Logo language. Site is multilingual, and the actual logo commands are also translated to the local languages, making it ideal for kids who knows only their mother tongue
+* [CodeMonkey](https://www.playcodemonkey.com/) - Learning CoffeeScript for kids through a nice interactive game
+* [Turtle Academy](https://www.turtleacademy.com/) - Learn Programming using the Logo language. Site is multilingual, and the actual logo commands are also translated to the local languages, making it ideal for kids who knows only their mother tongue
 
 
 
