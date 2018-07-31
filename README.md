@@ -46,4 +46,5 @@ Pull requests happily accepted.
 *Beginner or medium level training programs*
 
 * [code.org](https://code.org/) - an initiative that's packed with material for all ages
+* [codeclub](https://codeclubprojects.org/) - a voluntary initiative, which aims to provide opportunities for children aged 9 to 13 to developing coding skills through free after-school clubs. Great projects (including scratch, html & css, python, raspberry pi and more) you can try with your kid. Some projects have translations to more languages.
 
